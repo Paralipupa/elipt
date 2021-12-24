@@ -1,0 +1,3 @@
+﻿  ELIPT.cpp
+D:\Work\source\repos\ELIPT\ELIPT\ELIPT.cpp(520,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ELIPT.vcxproj -> D:\Work\source\repos\ELIPT\x64\Debug\ELIPT.exe
